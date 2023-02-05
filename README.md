@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BommaRavi
+- 👋 Hi, I’m @RavindraReddy
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently learning Advance Python, Machine learning, Data Algorithm, Business intelligence and Database Concepts
 - 💞️ I’m looking to collaborate on DSML with Scalar
