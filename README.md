@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RavindraReddy
 - 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Advance Python, Machine learning, Data Algorithm, Business intelligence and Database Concepts
+- 🌱 Play with Advance Python, Machine learning, Data Algorithm, Business intelligence and Database Concepts
 - 📫 How to reach me---+91-8143909695/ravindrareddyharsha@gmail.com
 
 <!---
